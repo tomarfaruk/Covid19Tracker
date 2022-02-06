@@ -1,7 +1,7 @@
 # Covid19Tracker
 
 
-
+<img src='https://user-images.githubusercontent.com/26671191/152698714-bf8e2a2f-1839-42de-82e1-6ebc41dcc8ed.gif' height='500' title='screenshot' />
 
 
 
